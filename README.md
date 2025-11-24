@@ -1,4 +1,12 @@
-Add a sound via Reddit > https://www.reddit.com/r/linuxmint/comments/1p4u3ip/share_your_favorite_linux_mint_system_sounds/
+🎶 Linux Mint Community System Sound Library
 
-You can view and modify your Linux Mint system sounds by going to Settings > Sound > Sounds.
-.ogg and .oga are supported.
+This project serves as a community-maintained collection of custom system sounds for Linux Mint.
+Users can browse, download, and contribute sounds to help others personalize their Mint experience.
+
+💬 How to Contribute a Sound
+
+We use a Reddit thread as the central place for community submissions.
+If you'd like to share a system sound:
+
+👉 Comment on this Reddit thread with your sound file or link:
+https://www.reddit.com/r/linuxmint/comments/1p4u3ip/share_your_favorite_linux_mint_system_sounds/
