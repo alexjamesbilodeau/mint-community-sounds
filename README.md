@@ -8,5 +8,5 @@ Users can browse, download, and contribute sounds to help others personalize the
 We use a Reddit thread as the central place for community submissions.
 If you'd like to share a system sound:
 
-👉 Comment on this Reddit thread with your sound file or link:
+👉 Comment on this Reddit thread with your link or description:
 https://www.reddit.com/r/linuxmint/comments/1p4u3ip/share_your_favorite_linux_mint_system_sounds/
